@@ -1,7 +1,6 @@
-PyPDF2
-langchain
 openai
-faiss-cpu
+pdfkit
+docx
+os
 python-dotenv
-pickle-mixin
 tiktoken
