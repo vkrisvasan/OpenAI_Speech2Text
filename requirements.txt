@@ -1,6 +1,6 @@
 openai
 pdfkit
-docx
+python-docx
 os
 python-dotenv
 tiktoken
