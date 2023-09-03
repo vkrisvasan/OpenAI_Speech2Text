@@ -1,3 +1,6 @@
+#coded in PyCharm
+#.env file OPENAI_API_KEY="YOUR KEY"
+#run code using the command from command line / terminal "streamlit run Speechetextv2.py"
 import streamlit as st
 import pdfkit
 from docx import Document
